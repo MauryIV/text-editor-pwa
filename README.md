@@ -35,7 +35,9 @@ This would be good as a reference for creating a PWA or to have your own little 
 
 <a id="Visuals"></a>
 ## Visuals
-NA
+![Screenshot 2024-05-07 at 4 53 38 PM](https://github.com/MauryIV/text-editor-pwa/assets/146037880/d461ef37-e4d2-40d3-bc14-0eb1ab294575)
+![Screenshot 2024-05-07 at 4 53 47 PM](https://github.com/MauryIV/text-editor-pwa/assets/146037880/863efe75-3176-435e-a414-dd572c81642c)
+![Screenshot 2024-05-07 at 4 53 56 PM](https://github.com/MauryIV/text-editor-pwa/assets/146037880/f0949c73-9eb4-4cc3-85cd-be0a6bb66b31)
 
 <a id="tests"></a>
 ## Tests
