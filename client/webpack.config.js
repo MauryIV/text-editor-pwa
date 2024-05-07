@@ -27,7 +27,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Text Editor',
-        short_name: 'Text Edit',
+        short_name: "Let's Code",
         description: 'Editing Text!',
         background_color: '#4600BB',
         theme_color: '#4600BB',
